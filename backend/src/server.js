@@ -17,7 +17,7 @@ const __dirname = path.resolve();
 
 app.use(
   cors({
-    origin: "https://test-zapp-1.onrender.com",
+    origin: "https://test-zapp-ten.vercel.app",
     
     credentials: true, // allow frontend to send cookies
   })
